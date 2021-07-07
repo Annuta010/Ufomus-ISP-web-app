@@ -259,7 +259,7 @@ header .logo .hidden {
     font-size: 14px;
     color: #000;
 }
-#aside-menu button#theme-btn {
+#aside-menu button.theme-btn {
     font-weight: 400;
 }
 
