@@ -68,7 +68,7 @@
                                 8-495-823-64-22
                             </a>
                         </li>
-                        <li id="theme-btn"><p>Темная тема</p> </li>
+                        <li ><p class="theme-btn">Темная тема</p></li>
                     </ul>
                 </li>
                 <li>
