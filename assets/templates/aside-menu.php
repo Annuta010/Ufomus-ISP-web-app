@@ -14,7 +14,7 @@
             <li class="hidable"><a href="contacts.php">Контакты</a></li>
             <li class="hidable"><a href="documents.php">Документация</a></li>
             <?php if(!empty($_SESSION["user_group"]) && ($_SESSION["user_group"] == "1")): ?><li class="hidable"><a href="admin_panel.php">Администратору</a></li> <?php endif; ?>
-            <li class="hidable"><button id="theme-btn">Темная тема</button></li>
+            <li class="hidable"><button class="theme-btn">Темная тема</button></li>
         </ul>
     </nav>
 </aside>
